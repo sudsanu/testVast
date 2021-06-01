@@ -46,10 +46,10 @@
 </VideoClicks>
 <MediaFiles>
 <MediaFile delivery="progressive" type="video/mp4" bitrate="6000" width="400" height="300">
-<![CDATA[ https://dummy-playtime.tubemogul.com/ad_promoted_videos/6882378b-5df8-4635-bc36-90d13a6ca45d.mp4 ]]>
+<![CDATA[ hts://dummy-playtime.tubemogul.com/ad_promoted_videos/6882378b-5df8-4635-bc36-90d13a6ca45d.mp4 ]]>
 </MediaFile>
 <MediaFile delivery="progressive" type="video/webm" bitrate="6000" width="400" height="300">
-<![CDATA[ https://playtime.tubemogul.com/ad_promoted_videos/fadf9acd-c835-4cf5-aa76-434a848b06a5.webm ]]>
+<![CDATA[ hts://playtime.tubemogul.com/ad_promoted_videos/fadf9acd-c835-4cf5-aa76-434a848b06a5.webm ]]>
 </MediaFile>
 <MediaFile delivery="progressive" type="video/x-flv" bitrate="6000" width="640" height="480">
 <![CDATA[ hjjps://playtime.tubemogul.com/ad_promoted_videos/a6f0dc6c-fc46-467f-9ff9-6c0c8cfb7368.flv ]]>
